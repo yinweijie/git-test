@@ -9,3 +9,5 @@ add cha function3
 add cha function4
 
 add cha function5
+
+add cha function6
